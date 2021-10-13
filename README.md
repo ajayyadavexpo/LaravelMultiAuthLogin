@@ -13,4 +13,4 @@
 - User  Login and Register page
 - Roles and Permission
 
-## For more detail please watch my video on [youtube](https://www.youtube.com/watch?v=_VxTdMZAd3Q)
+## For more details please watch my video on [youtube](https://www.youtube.com/watch?v=_VxTdMZAd3Q)
